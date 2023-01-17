@@ -2,7 +2,7 @@
 
 ![](./images/Screenshot%202023-01-18%20at%2002.34.03.png)
 
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Profile Card Component
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
