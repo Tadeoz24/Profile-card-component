@@ -4,7 +4,7 @@
 
 # Frontend Mentor - Profile Card Component
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Profile Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://tadeoz24.github.io/Order-Summary-Component/](https://tadeoz24.github.io/Order-Summary-Component/)
+- Live Site URL: [https://tadeoz24.github.io/Profile-card-component/](https://tadeoz24.github.io/Profile-card-component/)
 
 ## My process
 
